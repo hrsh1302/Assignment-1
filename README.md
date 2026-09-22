@@ -26,14 +26,14 @@ The user selects an option by entering a number from 1 to 4.
 ### Invalid Input Handling & Blank Buffer Display
 Demonstrates the menu rejecting a non-numeric entry ("Hello"), then showing the blank-buffer message when option 3 is selected before anything has been appended.
 
-![Invalid input and blank buffer](img1.png)
+![Invalid input and blank buffer](img(1).png)
 
 ### Appending and Displaying Text
 Shows option 1 being used to append "World" to the buffer, followed by option 3 confirming the buffer now contains `' World'`.
 
-![Append and display](img2.png)
+![Append and display](img(2).png)
 
 ### Clearing the Buffer and Exiting
 Shows option 2 clearing the buffer, followed by option 4 exiting the program cleanly (exit code 0).
 
-![Clear and exit](img3.png)
+![Clear and exit](img(3).png)
